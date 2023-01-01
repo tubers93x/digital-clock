@@ -1,0 +1,13 @@
+C:\Users\jepit\source\repos\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\jepit\source\repos\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\jepit\source\repos\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\jepit\source\repos\Clock\Clock\bin\Debug\Siticone.UI.dll
+C:\Users\jepit\source\repos\Clock\Clock\obj\Debug\Clock.csproj.AssemblyReference.cache
+C:\Users\jepit\source\repos\Clock\Clock\obj\Debug\Clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\jepit\source\repos\Clock\Clock\obj\Debug\Clock.Form1.resources
+C:\Users\jepit\source\repos\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\jepit\source\repos\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\jepit\source\repos\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\jepit\source\repos\Clock\Clock\obj\Debug\Clock.csproj.CopyComplete
+C:\Users\jepit\source\repos\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\jepit\source\repos\Clock\Clock\obj\Debug\Clock.pdb
